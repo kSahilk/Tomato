@@ -1,1 +1,1 @@
-Tomato: Developed a modular C++ application demonstrating strong object-oriented design and efficient use of STL containers, including priority queues and dynamic data management. The project showcases clean architecture with separate modules for management and processing, emphasizes memory-safe practices and reusable code, and serves as a foundation for scalable C++ applications with potential extensions like multithreading, file persistence, and unit testing.
+
